@@ -1,3 +1,3 @@
 ### **Server**
-* **Linux**
-* **Windows**
+* [**Linux**](linux)
+* [**Windows**](windows)
