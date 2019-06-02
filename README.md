@@ -2,6 +2,10 @@
 
 This is an unoffical textbook.
 
+In fact, this is notebook of our contributers.
+
+We "Mark-down" our notes here.
+
 # [Document Style](https://github.com/ruanyf/document-style-guide)
 > 
 > 中文技术文档的写作规范。
