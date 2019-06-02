@@ -1,1 +1,3 @@
-Place Holder
+### **Server**
+* [**Linux**](linux)
+* [**Windows**](windows)

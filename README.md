@@ -44,12 +44,14 @@ We **"Mark-down"** our notes here.
 ### [**Java**](java)
 
 ### [**C/C++**](c)
+* [**C**](c\c)
+* [**C++**](c\cpp)
 
 ### [**MySQL & MariaDB**](mysql)
 
 ### [**Server**](server)
-* **System**
-* **Software**
+* [**Linux**](server/linux)
+* [**Windows**](server/windows)
 
 ### [**Hardware**](hardware)
 
