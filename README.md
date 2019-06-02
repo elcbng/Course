@@ -24,7 +24,7 @@ We **"Mark-down"** our notes here.
 >
 > 公共领域（public domain）
 
-# Folder Structure
+# Episodes
 
 ### **Kinds of Licenses**
 
