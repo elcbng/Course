@@ -64,6 +64,7 @@ We **"Mark-down"** our notes here.
 ### ~~**Ruby**~~
 
 ### [**Python**](python)
+* **Machine Learning**
 
 -------
 # License
