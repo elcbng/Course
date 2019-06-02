@@ -1,4 +1,4 @@
-# GDUTELC Bell Network Group - Courses
+# GDUTELC - Courses
 
 This is an unoffical textbook.
 
