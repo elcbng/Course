@@ -44,6 +44,8 @@ We **"Mark-down"** our notes here.
 ### [**Java**](java)
 
 ### [**C/C++**](c)
+* [**C**](c\c)
+* [**C++**](c\cpp)
 
 ### [**MySQL & MariaDB**](mysql)
 
