@@ -6,7 +6,7 @@ In fact, this is notebook of our contributers.
 
 We **"Mark-down"** our notes here.
 
-# [Document Style](https://github.com/ruanyf/document-style-guide)
+## [Document Style](https://github.com/ruanyf/document-style-guide)
 > 
 > 中文技术文档的写作规范。
 >
@@ -24,7 +24,7 @@ We **"Mark-down"** our notes here.
 >
 > 公共领域（public domain）
 
-# Episodes
+## Episodes
 
 ### **Kinds of Licenses**
 
