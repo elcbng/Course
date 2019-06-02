@@ -10,21 +10,21 @@
 提取码：
 ~~这里我还没上传~~
 ## 安装wampserver  
-1. 打开下载好的wamp安装包
+1. 打开下载好的wamp安装包  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wampinstall.png)  
-1. 一路点next
+1. 一路点next  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wampnext.png)  
 1. 完成安装
 ## 启动wampserver
 1. 点击启动wampserver  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wampclick.png)  
 期间会弹出一些命令行弹窗  
-1. 若wamp所以服务正常运行将在状态栏看到一个绿色图标  
+1. 若wamp所以服务正常运行将在状态栏看到一个绿色图标    
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wamprun.png)   
 鼠标停留在上会显示所有服务正常运行  
 若为红色则没有一个服务正常运行  
 为橙色则为部分服务未正常运行  
-未正常运行时慢慢排查问题所在  
+未正常运行时慢慢排查问题所在    
 1. 打开浏览器输入[localhost](http://localhost/)  
 将看到以下界面则说明apache服务器运行成功  
 并可在界面中查看MySQL版本  
