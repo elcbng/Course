@@ -48,8 +48,8 @@ We **"Mark-down"** our notes here.
 ### [**MySQL & MariaDB**](mysql)
 
 ### [**Server**](server)
-* **Linux**
-* **Windows**
+* [**Linux**](server/linux)
+* [**Windows**](server/windows)
 
 ### [**Hardware**](hardware)
 
