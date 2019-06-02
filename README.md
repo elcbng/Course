@@ -53,7 +53,7 @@ We **"Mark-down"** our notes here.
 * [**Linux**](server/linux)
 * [**Windows**](server/windows)
 
-### [**Hardware**](hardware)
+### [**Network**](network)
 
 ### ~~**Scala**~~
 
