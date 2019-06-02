@@ -30,7 +30,7 @@ We "Mark-down" our notes here.
 
 ### [**Markdown & Git**](Git+Markdown)
 
-### **Web**
+### [**Web**](web)
 * **CSS**
 * **HTML**
 * **JavaScript**
@@ -38,20 +38,20 @@ We "Mark-down" our notes here.
 * Bootstrap
 * RSS
 
-### **PHP**
+### [**PHP**](php)
 * CGI
 
-### **Java**
+### [**Java**](java)
 
-### **C/C++**
+### [**C/C++**](c)
 
-### **MySQL & MariaDB**
+### [**MySQL & MariaDB**](mysql)
 
-### **Server**
+### [**Server**](server)
 * **System**
 * **Software**
 
-### **Hardware**
+### [**Hardware**](hardware)
 
 ### ~~**Scala**~~
 
@@ -63,7 +63,7 @@ We "Mark-down" our notes here.
 
 ### ~~**Ruby**~~
 
-### ~~**Python**~~
+### [**Python**](python)
 
 -------
 # License
