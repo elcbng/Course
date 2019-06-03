@@ -8,7 +8,7 @@
 将MySQL加入到环境中  
 此后便无需运行wamp即可使用MySQL
 ## 打开 Windows 环境变量配置设置
-1. 使用快捷键 Win + Q 调出收缩  
+1. 使用快捷键 Win + Q 调出搜索  
 1. 输入编辑系统环境变量    
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/searchpath.png)  
 1. 点击环境变量  
