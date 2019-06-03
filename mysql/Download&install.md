@@ -1,4 +1,5 @@
 # 环境搭建/下载wamp与安装
+- 作者Cerbur
 ## 下载WAMP
 ### 官网下载
 1. [wampserver官方网站](http://www.wampserver.com/en/#download-wrapper)  
