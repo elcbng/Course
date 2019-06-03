@@ -17,11 +17,11 @@
 
 ## [Distribution](https://en.wikipedia.org/wiki/Linux_distribution) [发行版](https://zh.wikipedia.org/wiki/Linux%E5%8F%91%E8%A1%8C%E7%89%88)
 
-**Linux 发行版**（英语：**Linux distribution**，也被叫做**GNU/Linux 发行版**），为一般用户预先集成好的Linux操作系统及各种应用软件。一般用户不需要重新编译，在直接安装之后，只需要小幅度更改设置就可以使用，通常以软件包管理系统来进行应用软件的管理。Linux发行版通常包含了包括桌面环境、办公包、媒体播放器、数据库等应用软件。这些操作系统通常由Linux内核、以及来自GNU计划的大量的函数库，和基于X Window的图形界面。有些发行版考虑到容量大小而没有预装 X Window，而使用更加轻量级的软件，如：busybox, uclibc 或 dietlibc。现在有超过300个Linux发行版(Linux发行版列表)。大部分都正处于活跃的开发中，不断地改进。
+**Linux 发行版**（英语：**Linux distribution**），为一般用户预先集成好的Linux操作系统及各种应用软件。一般用户不需要重新编译，在直接安装之后，只需要小幅度更改设置就可以使用，通常以软件包管理系统来进行应用软件的管理。Linux发行版通常包含了包括桌面环境、办公包、媒体播放器、数据库等应用软件。这些操作系统通常由Linux内核、以及来自GNU计划的大量的函数库，和基于X Window的图形界面。有些发行版考虑到容量大小而没有预装 X Window，而使用更加轻量级的软件，如：busybox, uclibc 或 dietlibc。现在有超过300个Linux发行版(Linux发行版列表)。大部分都正处于活跃的开发中，不断地改进。
 
 ### **Linux发行版**可以认为有以下的分支：
 
-#### **手上的Linux**
+#### 手上的Linux(非GNU/Linux)
 - Android 安卓
   - GMS Android (注：这是一部分人定义的“拥有完整谷歌服务的Android”)
     - Android IA
@@ -37,7 +37,7 @@
     - Resurrection Remix OS
   - Android ONE
 
-#### **计算机上的Linux**
+#### 计算机上的Linux(GNU/Linux)
 - Arch
   - Manjaro (非官方中文名：麻将)
 - Debian
@@ -75,7 +75,7 @@
 - 鸿蒙 Hongmeng OS、HomonOS、HMOS
 - 红旗Linux
 
-#### **路由器上的Linux**
+#### 路由器上的Linux(GNU/Linux)
 - OpenWRT
   - LEDE
   - Asuswrt
