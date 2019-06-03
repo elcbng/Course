@@ -25,35 +25,49 @@
     - Wear OS
   - Android Open Source Project(AOSP) 安卓开源计划 (默认不包含谷歌服务，可自行安装)
     - Android x86
-      - Remix OS
-      - Phoenix OS
     - Cyaongen Mod
       - Cyaongen OS
       - Lineage OS
     - Mokee 魔趣开源项目
     - OmniROM
     - Resurrection Remix OS
+  - Android ONE
 - Arch
   - Manjaro (非官方中文名：麻将)
 - Debian
   - Ubuntu 乌班图
+    - Ubuntu Touch
     - Ubuntu Server
     - UbuntuKylin 优麒麟
+      - NeoKylin 中标麒麟
     - Linux Mint
+    - KDE Neon
+      - Plasma Mobile
   - Deepin 深度
   - Kali Linux
     - Kali Linux NetHunter
 - Red Hat 红帽
-  - Fedora
-  - CentOS
+  - Fedora Core
+    - Fedora
+      - Red Star OS 붉은별 红星
+      - Moblin 2
+        - MeeGo
+          - Mer
+            - Sailfish OS 旗鱼
+          - Tizen
+  - Red Hat Enterprise
+    - CentOS
 - Enoch
   - Gentoo
     - Chrome OS
       - Chromium OS
-        - Flint OS
-          - Fyde OS
 - Slackware
   - S.u.S.E
+    - SuSE
+      - SUSE
+        - openSUSE
+- 鸿蒙 Hongmeng OS、HomonOS、HMOS
+- 红旗Linux
 
 因为[Linux发行版分支图](https://github.com/CerteKim/BNG/blob/master/server/linux/img/Linux_distribution.png)面积太大，所以不在这里贴出，但给出链接供参考。  
 
