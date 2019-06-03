@@ -41,6 +41,8 @@
     - UbuntuKylin 优麒麟
     - Linux Mint
   - Deepin 深度
+  - Kali Linux
+    - Kali Linux NetHunter
 - Red Hat 红帽
   - Fedora
   - CentOS
