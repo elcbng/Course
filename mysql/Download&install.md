@@ -20,7 +20,7 @@
 1. 点击启动 wampserver  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wampclick.png)  
 期间会弹出一些命令行弹窗  
-1. 若 wamp 所以服务正常运行将在状态栏看到一个绿色图标    
+1. 若 wamp 所有服务正常运行将在状态栏看到一个绿色图标    
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wamprun.png)   
 鼠标停留在上会显示所有服务正常运行  
 - 若为红色则没有一个服务正常运行  
