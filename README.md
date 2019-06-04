@@ -34,9 +34,10 @@ We **"Mark-down"** our notes here.
 * **CSS**
 * **HTML**
 * **JavaScript**
-* jQuery
-* Bootstrap
-* RSS
+
+* **XML**
+    * RSS
+* **json**
 
 ### [**PHP**](php)
 * CGI
