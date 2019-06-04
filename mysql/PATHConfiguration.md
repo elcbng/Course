@@ -15,11 +15,11 @@
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/pathhomepage.png)   
 1. 在环境变量界面中  
 下方的系统变量中  
-找到Path  
+找到 Path  
 点击选中后点击编辑  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/pathpage.png)   
 ## 找到MySQL所在的路径  
-1. 找到安装wamp时候apache界面读取到的  
+1. 找到安装 wamp 时候 apache 界面读取到的  
 MySQL版本这里是5.7.24  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wamplocalhost.png)    
 1. 在安装目录下(默认是C盘)  
@@ -34,7 +34,7 @@ mysql目录进入mysql5.7.24目录
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/pathedithomepage.png)   
 1. 然后一路确定  
 ## 检验配置是否异常
-1. Win + Q 输入cmd打开命令提示符  
+1. Win + Q 输入 cmd 打开命令提示符  
 1. 输入 ```mysql -V ```  
 显示如下则说明path路径配置完成  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/cmdmysqlv.png)   
