@@ -35,7 +35,7 @@ We **"Mark-down"** our notes here.
 * **index**
 
 ### [**Web**](web)
-* Langrage
+* Language
     * **CSS**
     * **HTML**
     * **JavaScript**
