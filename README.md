@@ -30,8 +30,12 @@ We **"Mark-down"** our notes here.
 
 ### [**Markdown & Git**](Git+Markdown)
 
+### [**Algorithom**](algorithom)
+* **start**
+* **index**
+
 ### [**Web**](web)
-* Langrage
+* Language
     * **CSS**
     * **HTML**
     * **JavaScript**
@@ -76,3 +80,14 @@ We **"Mark-down"** our notes here.
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 </a><br />This repository is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+
+### Contributers
+<div>
+    <a title="@CerteKim" href="https://github.com/CerteKim/"><img alt="@CerteKim" style="border-width:0" src="https://avatars0.githubusercontent.com/u/18364439?s=180&v=4" height="80" width="80"/></a>
+    <a title="@Cerbur" href="https://github.com/Cerbur"><img alt="@Cerbur" style="border-width:0" src="https://avatars1.githubusercontent.com/u/43725435?s=180&v=4" height="80" width="80"/></a>
+    <a title="@MuZhou233" href="https://github.com/MuZhou233"><img alt="@MuZhou233" style="border-width:0" src="https://avatars1.githubusercontent.com/u/20902854?s=180&v=4" height="80" width="80"/></a>
+    <a title="@Typhoonix" href="https://github.com/Typhoonix"><img alt="@Typhoonix" style="border-width:0" src="https://avatars3.githubusercontent.com/u/48146898?s=180&v=4" height="80" width="80"/></a>
+    <a title="@Geek126" href="https://github.com/Geek126"><img alt="@Geek126" style="border-width:0" src="https://avatars0.githubusercontent.com/u/51236789?s=180&v=4)" height="80" width="80"/></a> 
+    <a title="@Orion403" href="https://github.com/Orion403"><img alt="@Orion403" style="border-width:0" src="https://avatars2.githubusercontent.com/u/51348356?s=180&v=4)" height="80" width="80"/></a> 
+</div>
