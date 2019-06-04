@@ -30,6 +30,10 @@ We **"Mark-down"** our notes here.
 
 ### [**Markdown & Git**](Git+Markdown)
 
+### [**Algorithom**](algorithom)
+* **start**
+* **index**
+
 ### [**Web**](web)
 * Langrage
     * **CSS**
