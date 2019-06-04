@@ -34,7 +34,7 @@ mysql目录进入mysql5.7.24目录
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/pathedithomepage.png)   
 1. 然后一路确定  
 ## 检验配置是否异常
-1. Win + Q 输入 cmd 打开命令提示符  
+1. Win + R 输入 cmd 打开命令提示符  
 1. 输入 ```mysql -V ```  
 显示如下则说明path路径配置完成  
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/cmdmysqlv.png)   
