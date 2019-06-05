@@ -108,16 +108,32 @@ mysql> show databases;
 ```
 可以看到 ``` db_book ``` 被创建了  
 
+## 使用数据库  
+- 语法结构
+```sql
+USE `[database's name]`;
+```
+执行后可以理解为进入了一个新的目录中  
+可以在这个目录中操作对应的表(TABLE)  
+- 举个例子   
+```sql
+USE `db_book`;
+```
+执行结果:
+```sql
+mysql> USE `db_book`;
+Database changed
+```
 ## 删除数据库  
 - 语法结构
 ```sql
 DROP DATABASE `[database's name]`;
 ```
-> ``` DROP DATABASE + 数据库名```   
+ ``` DROP DATABASE + 数据库名```   
 执行完后即可~~跑路~~  
 这是 MySQL 最好玩的语句  
 遇事不决 删库跑路  
->
+
 - 举个例子
 ```sql
 DROP DATABASE `db_book`;
