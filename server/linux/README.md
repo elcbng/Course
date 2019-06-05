@@ -1,5 +1,5 @@
 # Linux
-- [**Intro**](Base/Intro.md)
+- [**介绍**](Base/Intro.md)
   - 声明
   - Linux 发行版
   - Init相关
