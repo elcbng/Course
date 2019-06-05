@@ -1,4 +1,5 @@
 # 简单的数据库操作  
+- 作者Cerbur
 ## 欢迎界面以及执行语句
 ```sql
 Welcome to the MySQL monitor.  Commands end with ; or \g.
