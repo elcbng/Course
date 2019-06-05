@@ -1,5 +1,5 @@
 # Linux
-- [**Intro**](Intro.md)
+- [**Intro**](Base/Intro.md)
   - 声明
   - Linux 发行版
   - Init相关
@@ -92,4 +92,4 @@
       - "d"
   - iptables
     - UFW 前端
-- [**Linux能有多骚**](Advance.md)
+- [**Linux能有多骚**](Advanced/README.md)
