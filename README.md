@@ -26,7 +26,7 @@ We **"Mark-down"** our notes here.
 
 ## Episodes
 
-### **Kinds of Licenses**
+### [**Kinds of Licenses**](https://github.com/IQAndreas/markdown-licenses)
 
 ### [**Markdown & Git**](Git+Markdown)
 
