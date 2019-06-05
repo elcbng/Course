@@ -4,8 +4,9 @@
 - 迫不及待想做点什么了吧
 - 来，让我们第一次和 MySQL ~~交合~~连接  
 ## 在 CMD 打开 MySQL 的终端
-0. 运行你的 wamp 服务
-1. Win + R 输入 cmd 打开命令提示符
+0. Win + R 输入 cmd 打开命令提示符  
+输入 ```mysqld``` 然后你的cmd可能会卡死  
+所以卡了直接关了然后重开继续下一步  
 1. 输入 ``` mysql -uroot -p[password]``` 然后enter  
 这里 ```-u``` user的缩写后面紧贴你的用户名  
 开始自带一个有着所有权限的用户root  
@@ -20,6 +21,16 @@
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/mysqlhomepage.png)    
 1.输入 ```exit``` 即可退出 MySQL    
 ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/mysqlbye.png)    
+>**这里讲一下上面 mysqld 是啥**   
+ mysqld 是 MySQL 的服务端程序  
+ 如果这个没打开就相当于服务没有打开  
+ 这时候 MySQL 是用不了的哦  
+ 服务开启后的 ```myslq -u[user] -p[password]```  
+ 是登录到 MySQL 客户端的哦  
+ 虽然他只是命令行  
+ 但前期学习就靠他  
+ 很可爱  
+>
 - 好哒现在已经完成了 MySQL 的登录与退出了  
 - 熟悉一哈这些步骤  
 - 接下来我们就开始要和数据库打交道啦  
