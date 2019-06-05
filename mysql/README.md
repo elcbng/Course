@@ -5,4 +5,4 @@
 > 0. [做好准备才能做坏事哦————环境搭建/下载wamp与安装](Download&install.md)  
 > 0. [前戏要做足，否则以后会很难受的————环境搭建/PATH环境变量配置](PATHConfiguration.md)  
 > 0. [啊~是第一次————MySQL的登录与退出](FirstUseMySQL.md)   
->
+> 0. [哇这样真的没有问题吗？好害怕————简单的数据库操作](DatabasesUse.md)
