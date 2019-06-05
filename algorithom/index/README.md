@@ -1,6 +1,14 @@
 # 膜法导书目录
 
-参考来源：[@MuZhou的博文](https://muzhou.tech/tags/#OI)
+以下内容来自 @ywandy [备份](https://github.com/MuZhou233/alg)
+
+- [**Array**](array)  
+- [**Circual_buffer**](circual_buffer)  
+- [**Data_struct**](data_struct)  
+- [**Sort**](sort)  
+- [**String**](string)  
+
+以下内容参考来源：[@MuZhou的博文](https://muzhou.tech/tags/#OI)
 
 ## 数据结构
 
@@ -14,7 +22,7 @@ void push (int x) {
 	Stack[top++] = x;
 }
 int front () {
-	return Stack[--top];
+	return Stack[top];
 }
 void pop () {
 	top--;
