@@ -14,4 +14,4 @@
 >- [机器学习是什么](ML/ML_What_is_machine_learning.md)
 >- [监督学习](ML/ML_Supervised_Learning.md)
 >
->_tips：这边我先打算直接把整套教程发上来让大家可以使用，至于上边的ML板块不过是自己练习MD的素材（苦笑 - -|||），等到差不多了就打算删除了……————from Typhoonix_
+>_tips：这边我先打算直接把整套教程发上来让大家可以使用，至于上边的ML板块不过是自己练习MD的素材（苦笑 - -|||），等到差不多了就打算删除了……————@ Typhoonix_
