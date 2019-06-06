@@ -1,5 +1,8 @@
 # Python
 
+* [yewei的笔记本](https://github.com/ywandy/Re_learn_python)
+* [GDUT课程导入到谷歌日历](https://github.com/ywandy/GDUT_Lesson_TO_GOOGLE)
+
 >## Machine Learning
 >
 >_tips：搭配吴恩达机器学习资料进行学习_
