@@ -1,8 +1,8 @@
 # Linux
 
 <details>
-<summary><b>简介</b></summary>
-<p><a href="Base/README.md">跳转到“简介”分节</a></p>
+<summary><a><b>简介</b></a></summary>
+<p><a href="Base/README.md">跳转到“<b>简介</b>”分节</a></p>
 <pre><code>
   - 声明
   - Linux 发行版
@@ -120,9 +120,9 @@
 </details>
 
 <details>
-<summary><b>Linux能有多骚</b></summary>
-<p><a href="Advanced/README.md">跳转到“Linux能有多骚”目录</a></p>
+<summary><a><b>Linux能有多骚</b></a></summary>
+<p><a href="Advanced/README.md">跳转到“<b>Linux能有多骚</b>”目录</a></p>
 <pre><code>
-  很简单，要多牛逼有多牛逼。
+  很简单，要多骚有多骚
 </code></pre>
 </details>
