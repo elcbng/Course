@@ -21,8 +21,10 @@
 
 ### **Linux 发行版** 可以认为有以下的分支：
 
-#### 手上的 Linux(非GNU/Linux)
-- Android 安卓
+<details>
+<summary><b>手上的 Linux(非GNU/Linux)</b></summary>
+<pre><code>
+  - Android 安卓
   - GMS Android (注：这是一部分人定义的“拥有完整谷歌服务的 Android ”)
     - Android IA
     - Android TV
@@ -36,8 +38,12 @@
     - OmniROM
     - Resurrection Remix OS
   - Android ONE
+</code></pre>
+</details>
 
-#### 计算机上的 Linux(GNU/Linux)
+<details>
+<summary><b>计算机上的 Linux(GNU/Linux)</b></summary>
+<pre><code>
 - Arch
   - Manjaro (非官方中文名：麻将)
 - Debian
@@ -74,14 +80,22 @@
         - openSUSE
 - 鸿蒙 Hongmeng OS、HomonOS、HMOS
 - 红旗Linux
+</code></pre>
+</details>
 
-#### 路由器上的 Linux(GNU/Linux)
+<details>
+<summary><b>路由器上的 Linux</b></summary>
+<pre><code>
 - OpenWRT
   - LEDE
   - Asuswrt
     - Merlin 梅林
 - DD-WRT
 - Tomato
+</code></pre>
+</details>
+
+<br>
 
 因为 [Linux 发行版分支图](img/Linux_distribution.png)面积太大，所以不在这里贴出，但给出链接供参考。  
 
