@@ -1,7 +1,7 @@
 # Linux
 
 <details>
-<summary><a><b>简介</b></a></summary>
+<summary><b>简介</b></summary>
 <p><a href="Base">跳转到“<b>简介</b>”分节</a></p>
 <pre><code>
   - 声明
@@ -120,7 +120,7 @@
 </details>
 
 <details>
-<summary><a><b>Linux 能有多骚</b></a></summary>
+<summary><b>Linux 能有多骚</b></summary>
 <p><a href="Advanced">跳转到“<b>Linux 能有多骚</b>”目录</a></p>
 <pre><code>
   很简单，要多骚有多骚
