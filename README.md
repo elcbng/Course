@@ -44,10 +44,14 @@ We **"Mark-down"** our notes here.
         * RSS
     * **json**
 
+### [**Server**](server)
+* [**Linux**](server/linux)
+* [**Windows**](server/windows)
+
+### [**Network**](network)
+
 ### [**PHP**](php)
 * CGI
-
-### [**Java**](java)
 
 ### [**C/C++**](c)
 * [**C**](c\c)
@@ -55,15 +59,11 @@ We **"Mark-down"** our notes here.
 
 ### [**MySQL & MariaDB**](mysql)
 
-### [**Server**](server)
-* [**Linux**](server/linux)
-* [**Windows**](server/windows)
-
-### [**Network**](network)
+### [**Java**](java)
 
 ### ~~**Scala**~~
 
-### ~~**Kotlin**~~
+### [**Kotlin**](kotlin)
 
 ### ~~**Golang**~~
 
@@ -73,6 +73,8 @@ We **"Mark-down"** our notes here.
 
 ### [**Python**](python)
 * **Machine Learning**
+
+### ~~**Perl**~~
 
 ### [others](https://github.com/MuZhou233/gugu-tutorial)
 
