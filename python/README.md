@@ -2,6 +2,7 @@
 
 * [yewei的笔记本](https://github.com/ywandy/Re_learn_python)
 * [GDUT课程导入到谷歌日历](https://github.com/ywandy/GDUT_Lesson_TO_GOOGLE)
+* [例子：AI学习走路](https://www.youtube.com/watch?v=K-wIZuAA3EY)
 
 >## Machine Learning
 >
