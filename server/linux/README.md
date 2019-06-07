@@ -1,6 +1,8 @@
 # Linux
+
 <details>
-<summary><a href="Base/README.md"><b>简介</b></a></summary>
+<summary><b>简介</b></summary>
+<p><a href="Base/README.md">跳转到分目录</a></p>
 <pre><code>
   - 声明
   - Linux 发行版
@@ -120,6 +122,6 @@
 <details>
 <summary><a href="Advanced/README.md"><b>Linux能有多骚</b></a></summary>
 <pre><code>
-
+  很简单，要多牛逼有多牛逼。
 </code></pre>
 </details>
