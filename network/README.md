@@ -2,18 +2,18 @@
 
 包括以下：
 - **网络设施**
-  - **网卡(Network Card)**
-  - **路由器(Router)**
-  - **网络交换机(Network Switch)**
-  - **集线器(Ethernet Hub)**
-  - **调制解调器(Modem modulator-demodulator的英文缩写)**
-  - **桥接器、网桥(Network Bridge)**
+  - **网卡 (Network Card)**
+  - **路由器 (Router)**
+  - **网络交换机 (Network Switch)**
+  - **集线器 (Ethernet Hub)**
+  - **调制解调器 (Modem modulator-demodulator的英文缩写)**
+  - **桥接器、网桥 (Network Bridge)**
 - **接入技术**
-  - **ADSL(非对称数字用户线路)**
-  - **VDSL(超高速数字用户线路)**
+  - **ADSL (非对称数字用户线路)**
+  - **VDSL (超高速数字用户线路)**
   - **光纤接入**
   - **电力线通信接入**
-  - **无线接入(IEEE 802.11)**
+  - **无线接入 (IEEE 802.11)**
   - **有线电视上网**
   - **卫星网络**
 - **互联网相关**
@@ -33,6 +33,6 @@
     - **SMTP - Simple Mail Transfer Protocol (简单邮件传输协议)**
     - **SSH - Secure Shell (安全外壳协议)**
     - **Telnet**
-    - **TLS - Transport Layer Security(传输层安全性协议)**
+    - **TLS - Transport Layer Security (传输层安全性协议)**
       - **xxx-over-SSL/TLS**
-        - 包括HTTPS，IMAPS，SMTPS，POP3-over-SSL/TLS等
+        - 包括 HTTPS，IMAPS，SMTPS，POP3-over-SSL/TLS 等
