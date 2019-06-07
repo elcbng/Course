@@ -1,13 +1,13 @@
 # Python
 
-* [yewei的笔记本](https://github.com/ywandy/Re_learn_python)
-* [GDUT课程导入到谷歌日历](https://github.com/ywandy/GDUT_Lesson_TO_GOOGLE)
+* [yewei 的笔记本](https://github.com/ywandy/Re_learn_python)
+* [GDUT 课程导入到谷歌日历](https://github.com/ywandy/GDUT_Lesson_TO_GOOGLE)
 * [例子：AI学习走路](https://www.youtube.com/watch?v=K-wIZuAA3EY)
 
 >## Machine Learning
 >
 >- [笔记更新网址(视频下载地址公布)](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
->- [DeepLearning.ai笔记](https://github.com/fengdu78/deeplearning_ai_books)
+>- [DeepLearning.ai 笔记](https://github.com/fengdu78/deeplearning_ai_books)
 >- [知乎](https://www.zhihu.com/people/fengdu78/activities)
 >
 >### 引言(Introducing)
