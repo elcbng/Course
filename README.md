@@ -35,11 +35,11 @@ We **"Mark-down"** our notes here.
 * **index**
 
 ### [**Web**](web)
-* Language
+* **Language**
     * **CSS**
     * **HTML**
     * **JavaScript**
-* Data
+* **Data**
     * **XML**
         * RSS
     * **json**
