@@ -15,9 +15,14 @@
 
 * 本篇可能会涉及路由器的 [**OpenWRT**](https://openwrt.org/) [(Wiki)](https://zh.wikipedia.org/wiki/OpenWrt)
 
+* 由于本人能力有限，并不会讲解 [__UNIX System III__](https://zh.wikipedia.org/wiki/UNIX_System_III) 、 [__UNIX System V__](https://zh.wikipedia.org/wiki/UNIX_System_V) 或者 [__Upstart__](https://zh.wikipedia.org/wiki/Upstart)
+<br>所以只讲解 [**Systemd**](https://zh.wikipedia.org/wiki/Systemd)
+
 ## [Distribution](https://en.wikipedia.org/wiki/Linux_distribution) [发行版](https://zh.wikipedia.org/wiki/Linux%E5%8F%91%E8%A1%8C%E7%89%88)
 
 **Linux 发行版**（英语：**Linux distribution**），为一般用户预先集成好的 Linux 操作系统及各种应用软件。一般用户不需要重新编译，在直接安装之后，只需要小幅度更改设置就可以使用，通常以软件包管理系统来进行应用软件的管理。Linux 发行版通常包含了包括桌面环境、办公包、媒体播放器、数据库等应用软件。这些操作系统通常由 Linux 内核、以及来自 GNU 计划的大量的函数库，和基于 X Window 的图形界面。有些发行版考虑到容量大小而没有预装 X Window，而使用更加轻量级的软件，如：busybox, uclibc 或 dietlibc 。现在有超过300个 Linux 发行版( Linux 发行版列表)。大部分都正处于活跃的开发中，不断地改进。
+
+
 
 ### **Linux 发行版** 可以认为有以下的分支：
 
@@ -98,8 +103,3 @@
 <br>
 
 因为 [Linux 发行版分支图](img/Linux_distribution.png)面积太大，所以不在这里贴出，但给出链接供参考。  
-
-## [Init](https://en.wikipedia.org/wiki/Init) [(中文页面)](https://zh.wikipedia.org/wiki/Init)
-由于本人能力有限，并不会讲解 [__UNIX System III__](https://zh.wikipedia.org/wiki/UNIX_System_III) 、 [__UNIX System V__](https://zh.wikipedia.org/wiki/UNIX_System_V) 或者 [__Upstart__](https://zh.wikipedia.org/wiki/Upstart)
-
-所以只讲解 [**Systemd**](https://zh.wikipedia.org/wiki/Systemd)
