@@ -1,6 +1,6 @@
 # Linux
 <details>
-<summary><a href="/Base/README.md"><b>简介</b></a></summary>
+<summary><a href="Base/README.md"><b>简介</b></a></summary>
 <pre><code>
   - 声明
   - Linux 发行版
@@ -118,7 +118,7 @@
 </details>
 
 <details>
-<summary><a href="/Advanced/README.md"><b>Linux能有多骚</b></a></summary>
+<summary><a href="Advanced/README.md"><b>Linux能有多骚</b></a></summary>
 <pre><code>
 
 </code></pre>
