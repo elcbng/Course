@@ -2,7 +2,7 @@
 
 <details>
 <summary><a><b>简介</b></a></summary>
-<p><a href="Base/README.md">跳转到“<b>简介</b>”分节</a></p>
+<p><a href="Base">跳转到“<b>简介</b>”分节</a></p>
 <pre><code>
   - 声明
   - Linux 发行版
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary><b>Linux的启动</b></summary>
+<summary><b>Linux 的启动</b></summary>
 <pre><code>
   - Bootloader
     - UEFI
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary><b>Linux的结构</b></summary>
+<summary><b>Linux 的结构</b></summary>
 <pre><code>
   - 文件系统
     - 分区格式
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-<summary><b>初步使用Linux</b></summary>
+<summary><b>初步使用 Linux</b></summary>
 <pre><code>
   - Desktop Manager 桌面管理器
   - Desktop Environment 桌面环境
@@ -120,8 +120,8 @@
 </details>
 
 <details>
-<summary><a><b>Linux能有多骚</b></a></summary>
-<p><a href="Advanced/README.md">跳转到“<b>Linux能有多骚</b>”目录</a></p>
+<summary><a><b>Linux 能有多骚</b></a></summary>
+<p><a href="Advanced">跳转到“<b>Linux 能有多骚</b>”目录</a></p>
 <pre><code>
   很简单，要多骚有多骚
 </code></pre>
