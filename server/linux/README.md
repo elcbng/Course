@@ -1,35 +1,52 @@
 # Linux
-- [**介绍**](Base/README.md)
+<details>
+<summary><a href="/Base/README.md"><b>简介</b></a></summary>
+<pre><code>
   - 声明
   - Linux 发行版
   - Init相关
-- **安装**
+</code></pre>
+</details>
+
+<details>
+<summary><b>安装</b></summary>
+<pre><code>
   - Ubuntu 乌班图
   - CentOS
   - ArchLinux
-  - ~~Openwrt~~
-  - ~~Gentoo(等待勇士填坑)~~
-- **Linux的启动**
+  - <s>Openwrt</s>
+  - <s>Gentoo(等待勇士填坑)</s>
+</code></pre>
+</details>
+
+<details>
+<summary><b>Linux的启动</b></summary>
+<pre><code>
   - Bootloader
     - UEFI
       - Grub
       - Syslinux
-      - ~~Systemd Boot 底裤启动~~
-      - ~~EFISTUB~~
-        - ~~rEFInd~~
-        - ~~Clover 四叶草~~
-    - ~~Legacy~~
-      - ~~Grub Legacy~~
-      - ~~Grub~~
-      - ~~Syslinux~~
-      - ~~Grub4dos~~
-    - ~~额外补充内容：嵌入式~~
-      - ~~U-Boot~~
-      - ~~Breed（路由器）~~
+      - Systemd Boot 底裤启动
+      - <s>EFISTUB</s>
+        - <s>rEFInd</s>
+        - <s>Clover 四叶草</s>
+    - <s>Legacy</s>
+      - <s>Grub Legacy</s>
+      - <s>Grub</s>
+      - <s>Syslinux</s>
+      - <s>Grub4dos</s>
+    - <s>额外补充内容：嵌入式</s>
+      - <s>U-Boot</s>
+      - <s>Breed（路由器）</s>
   - rootfs
     - initramfs
   - Init
-- **Linux的结构**
+</code></pre>
+</details>
+
+<details>
+<summary><b>Linux的结构</b></summary>
+<pre><code>
   - 文件系统
     - 分区格式
     - “/”的下面是宇宙
@@ -66,30 +83,43 @@
         - App 应用程序
     - CoreUtils 核心工具链
     - Shell
-- **初步使用Linux**
+</code></pre>
+</details>
+
+<details>
+<summary><b>初步使用Linux</b></summary>
+<pre><code>
   - Desktop Manager 桌面管理器
   - Desktop Environment 桌面环境
   - 软件包管理系统
     - Debian dpkg
       - apt 前端
     - Fedora rpm
-      - ~~dnf 前端~~
+      - <a>dnf 前端</a>
       - yum 前端
     - Arch pacman
       - Arch AUR
         - yay 前端
-    - ~~Gentoo portage~~
+    - <a>Gentoo portage</a>
     - Openwrt opkg
-    - ~~额外~~
-      - ~~macOS homebrew~~
-      - ~~Chromium chromebrew~~
-      - ~~Windows Installer~~
-        - ~~Windows Installer 前端~~
-        - ~~Chocolatey 前端~~
+    - <a>额外<a>
+      - <a>macOS homebrew<a>
+      - <a>Chromium chromebrew<a>
+      - <a>Windows Installer<a>
+        - <a>Windows Installer 前端<a>
+        - <a>Chocolatey 前端<a>
   - daemon
-    - ~~System V~~
+    - <a>System V<a>
     - systemd 底裤
       - "d"
   - iptables
     - UFW 前端
-- [**Linux能有多骚**](Advanced/README.md)
+</code></pre>
+</details>
+
+<details>
+<summary><a href="/Advanced/README.md"><b>Linux能有多骚</b></a></summary>
+<pre><code>
+
+</code></pre>
+</details>
