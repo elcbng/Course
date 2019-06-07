@@ -97,21 +97,21 @@
     - Debian dpkg
       - apt 前端
     - Fedora rpm
-      - <a>dnf 前端</a>
+      - <s>dnf 前端</s>
       - yum 前端
     - Arch pacman
       - Arch AUR
         - yay 前端
-    - <a>Gentoo portage</a>
+    - <s>Gentoo portage</s>
     - Openwrt opkg
-    - <a>额外<a>
-      - <a>macOS homebrew<a>
-      - <a>Chromium chromebrew<a>
-      - <a>Windows Installer<a>
-        - <a>Windows Installer 前端<a>
-        - <a>Chocolatey 前端<a>
+    - <s>额外</s>
+      - <s>macOS homebrew</s>
+      - <s>Chromium chromebrew</s>
+      - <s>Windows Installer</s>
+        - <s>Windows Installer 前端</s>
+        - <s>Chocolatey 前端</s>
   - daemon
-    - <a>System V<a>
+    - <s>System V</s>
     - systemd 底裤
       - "d"
   - iptables
