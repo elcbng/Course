@@ -22,6 +22,7 @@
 1. 一路点 next (这里可以选择修改路径，记得路径会影响之后的配置)  
     
     ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wampnext.png)  
+
 1. 完成安装
 ## 启动wampserver
 
@@ -33,7 +34,8 @@
 1. 若 wamp 所有服务正常运行将在状态栏看到一个绿色图标    
 
     ![Alt text](https://github.com/CerteKim/BNG/blob/master/mysql/img/wamprun.png)   
-鼠标停留在上会显示所有服务正常运行  
+
+- 鼠标停留在上会显示所有服务正常运行  
 - 若为红色则没有一个服务正常运行  
 - 为橙色则为部分服务未正常运行  
 - **未正常运行时慢慢排查问题所在**    
