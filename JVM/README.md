@@ -1,4 +1,4 @@
-# Java Virtual Machine
+# [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine) [(Java虚拟机)](https://zh.wikipedia.org/wiki/Java%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
 Java虚拟机（英语：Java Virtual Machine，缩写为JVM），一种能够运行 Java bytecode 的虚拟机，以堆栈结构机器来进行实做。最早由太阳微系统所研发并实现第一个实现版本，是 Java 平台的一部分，能够运行以 Java 语言写作的软件程序。
 
