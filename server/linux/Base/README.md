@@ -120,3 +120,5 @@ __*除了一部分专家之外，大多数人都是直接使用 Linux 发行版�
 
 * 由于本人能力有限，并不会讲解 [__UNIX System III__](https://zh.wikipedia.org/wiki/UNIX_System_III) 、 [__UNIX System V__](https://zh.wikipedia.org/wiki/UNIX_System_V) 或者 [__Upstart__](https://zh.wikipedia.org/wiki/Upstart)
 <br>所以只讲解 [**Systemd**](https://zh.wikipedia.org/wiki/Systemd)
+
+# 继续阅读，请前往：[目录](base.md)

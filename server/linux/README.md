@@ -10,6 +10,7 @@
 </code></pre>
 </details>
 
+## 基础
 <details>
 <summary><b>安装</b></summary>
 <pre><code>
@@ -20,6 +21,39 @@
   - <s>Gentoo(等待勇士填坑)</s>
 </code></pre>
 </details>
+
+<details>
+<summary><b>初步使用 Linux</b></summary>
+<pre><code>
+  - Desktop Manager 桌面管理器
+  - Desktop Environment 桌面环境
+  - 软件包管理系统
+    - Debian dpkg
+      - apt 前端
+    - Fedora rpm
+      - <s>dnf 前端</s>
+      - yum 前端
+    - Arch pacman
+      - Arch AUR
+        - yay 前端
+    - <s>Gentoo portage</s>
+    - Openwrt opkg
+    - <s>额外</s>
+      - <s>macOS homebrew</s>
+      - <s>Chromium chromebrew</s>
+      - <s>Windows Installer</s>
+        - <s>Windows Installer 前端</s>
+        - <s>Chocolatey 前端</s>
+  - daemon
+    - <s>System V</s>
+    - systemd 底裤
+      - "d"
+  - iptables
+    - UFW 前端
+</code></pre>
+</details>
+
+## 高级
 
 <details>
 <summary><b>Linux 的启动</b></summary>
@@ -85,37 +119,6 @@
         - App 应用程序
     - CoreUtils 核心工具链
     - Shell
-</code></pre>
-</details>
-
-<details>
-<summary><b>初步使用 Linux</b></summary>
-<pre><code>
-  - Desktop Manager 桌面管理器
-  - Desktop Environment 桌面环境
-  - 软件包管理系统
-    - Debian dpkg
-      - apt 前端
-    - Fedora rpm
-      - <s>dnf 前端</s>
-      - yum 前端
-    - Arch pacman
-      - Arch AUR
-        - yay 前端
-    - <s>Gentoo portage</s>
-    - Openwrt opkg
-    - <s>额外</s>
-      - <s>macOS homebrew</s>
-      - <s>Chromium chromebrew</s>
-      - <s>Windows Installer</s>
-        - <s>Windows Installer 前端</s>
-        - <s>Chocolatey 前端</s>
-  - daemon
-    - <s>System V</s>
-    - systemd 底裤
-      - "d"
-  - iptables
-    - UFW 前端
 </code></pre>
 </details>
 
