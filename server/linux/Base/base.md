@@ -10,6 +10,9 @@
 比如说对汉语用户友好的 Archwiki
 >俗话说，你甚至能在 ArchWiki 学习怎么使用 Windows
 
+<br>
+>要继续阅读请点标题
+
 ### [初步使用 Linux](dailyuse)
 
 从本节开始，我们将以**代替 Windows **(~~去你[哔]的田牌~~)这个目标来教会大家使用一般的Linux发行版来作为自己的 Daily Driver
