@@ -4,7 +4,7 @@ This is an unoffical textbook.
 
 In fact, this is notebook of our contributers.
 
-We **"Mark-down"** our notes here.
+We "**Mark-down**" our notes here.
 
 ## [Document Style](https://github.com/ruanyf/document-style-guide)
 > 
@@ -26,54 +26,54 @@ We **"Mark-down"** our notes here.
 
 ## Episodes
 
-### [**Kinds of Licenses**](https://github.com/IQAndreas/markdown-licenses)
+### [Kinds of Licenses](https://github.com/IQAndreas/markdown-licenses)
 
-### [**Markdown & Git**](Git+Markdown)
+### [Markdown & Git](Git+Markdown)
 
-### [**Algorithom**](algorithom)
-* **start**
-* **index**
+### [Algorithom](algorithom)
+* start
+* index
 
-### [**Web**](web)
+### [Web](web)
 * **Language**
-    * **CSS**
-    * **HTML**
+    * CSS
+    * HTML
     * **JavaScript**
 * **Data**
-    * **XML**
+    * XML
         * RSS
-    * **json**
+    * json
 
-### [**Server**](server)
+### [Server](server)
 * [**Linux**](server/linux)
 * [**Windows**](server/windows)
 
-### [**Network**](network)
+### [Network](network)
 
-### [**PHP**](php)
+### [PHP](php)
 * CGI
 
-### [**C/C++**](c)
+### [C/C++](c)
 * [**C**](c\c)
 * [**C++**](c\cpp)
 
-### [**MySQL & MariaDB**](mysql)
+### [MySQL](mysql)
 
-### [**JVM**](JVM)
+### [JVM](JVM)
 * [**Java**](JVM/java)
-* ~~**Scala**~~
+* ~~Scala~~
 * [**Kotlin**](JVM/kotlin)
 
-### ~~**Golang**~~
+### ~~Golang~~
 
-### ~~**Rust**~~
+### ~~Rust~~
 
-### ~~**Ruby**~~
+### ~~Ruby~~
 
-### [**Python**](python)
+### [Python](python)
 * **Machine Learning**
 
-### ~~**Perl**~~
+### ~~Perl~~
 
 ### [others](https://github.com/MuZhou233/gugu-tutorial)
 
