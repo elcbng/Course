@@ -1,9 +1,9 @@
-> # MySQL教程
-> ## 目录
-> 0. [嘘，和你说点悄悄话————前言/作者序](Foreword.md)  
-> 0. ~~这个东西能吃吗，看着好可口啊，喵~————数据库与MySQL简介~~  
-> 0. [做好准备才能做坏事哦————环境搭建/下载wamp与安装](Download&install.md)  
-> 0. [前戏要做足，否则以后会很难受的————环境搭建/PATH环境变量配置](PATHConfiguration.md)  
-> 0. [啊~是第一次————MySQL的登录与退出](FirstUseMySQL.md)   
-> 0. [哇这样真的没有问题吗？好害怕————简单的数据库操作](DatabasesUse.md)
-> 0. [进去了~在里面玩玩吧————数据库中的简单的表操作]()
+# MySQL教程
+## 目录
+0. [嘘，和你说点悄悄话————前言/作者序](Foreword.md)  
+0. ~~这个东西能吃吗，看着好可口啊，喵~————数据库与MySQL简介~~  
+0. [做好准备才能做坏事哦————环境搭建/下载wamp与安装](Installation/windows/Download&install.md)
+0. [前戏要做足，否则以后会很难受的————环境搭建/PATH环境变量配置](Installation/windows/PATHConfiguration.md)  
+0. [啊~是第一次————MySQL的登录与退出](using/windows/FirstUseMySQL.md)   
+0. [哇这样真的没有问题吗？好害怕————简单的数据库操作](DatabasesUse.md)
+0. [进去了~在里面玩玩吧————数据库中的简单的表操作]()
