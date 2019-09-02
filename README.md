@@ -32,7 +32,7 @@ We "**Mark-down**" our notes here.
 
 ### [笔记目录](INDEX.md)
 
-### [TEXTBOOK](TEXTBOOK/README.md)
+### [TEXTBOOK](TEXTBOOK)
 
 ----
 # License
