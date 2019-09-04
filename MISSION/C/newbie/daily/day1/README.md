@@ -15,3 +15,4 @@
 
 # Mission EX $mØkĘ wËėĐ ĕVēRÿđåY
 将 “$mØkĘ wËėĐ ĕVēRÿđåY” 存储，用户输入数字n后，输出第n个字。
+![Alt Text](https://bankkita.com/images/smoke-weed-everyday-png.gif)
