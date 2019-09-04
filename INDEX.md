@@ -2,13 +2,13 @@
 
 ### [Kinds of Licenses](https://github.com/IQAndreas/markdown-licenses)
 
-### [Markdown & Git](Git+Markdown)
+### [Markdown & Git](NOTE/Git+Markdown)
 
-### [Algorithom](algorithom)
+### [Algorithom](NOTE/algorithom)
 * start
 * index
 
-### [Web](web)
+### [Web](NOTE/web)
 * **Language**
     * CSS
     * HTML
@@ -18,25 +18,25 @@
         * RSS
     * json
 
-### [Server](server)
-* [**Linux**](server/linux)
-* [**Windows**](server/windows)
+### [Server](NOTE/server)
+* [**Linux**](NOTE/server/linux)
+* [**Windows**](NOTE/server/windows)
 
-### [Network](network)
+### [Network](NOTE/network)
 
-### [PHP](php)
+### [PHP](NOTE/php)
 * CGI
 
-### [C/C++](c)
-* [**C**](c\c)
-* [**C++**](c\cpp)
+### [C/C++](NOTE/c)
+* [**C**](NOTE/c\c)
+* [**C++**](NOTE/c\cpp)
 
-### [MySQL](mysql)
+### [MySQL](NOTE/mysql)
 
-### [JVM](JVM)
-* [**Java**](JVM/java)
+### [JVM](NOTE/JVM)
+* [**Java**](NOTE/JVM/java)
 * ~~Scala~~
-* [**Kotlin**](JVM/kotlin)
+* [**Kotlin**](NOTE/JVM/kotlin)
 
 ### ~~Golang~~
 
@@ -44,7 +44,7 @@
 
 ### ~~Ruby~~
 
-### [Python](python)
+### [Python](NOTE/python)
 * **Machine Learning**
 
 ### ~~Perl~~
