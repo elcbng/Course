@@ -28,8 +28,8 @@
 * CGI
 
 ### [C/C++](NOTE/c)
-* [**C**](NOTE/c\c)
-* [**C++**](NOTE/c\cpp)
+* [**C**](NOTE/c/c)
+* [**C++**](NOTE/c/cpp)
 
 ### [MySQL](NOTE/mysql)
 
