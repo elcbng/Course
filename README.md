@@ -6,13 +6,19 @@ In fact, this is notebook of our contributers.
 
 We "**Mark-down**" our notes here.
 
-----
+# Content
 
-### [**缺德经**](philosophy/README.md)
+1. ### [前言：缺德经](philosophy/README.md)
 
-----
+1. ### [笔记目录](INDEX.md)
 
-## [Document Style](https://github.com/ruanyf/document-style-guide)
+1. ### [已经整理的笔记](TEXTBOOK)
+
+1. ### [任务](MISSION)
+
+---
+
+>### [Document Style](https://github.com/ruanyf/document-style-guide)
 > 
 > 中文技术文档的写作规范。
 >
@@ -29,12 +35,6 @@ We "**Mark-down**" our notes here.
 > ## License
 >
 > 公共领域（public domain）
-
-### [笔记目录](INDEX.md)
-
-### [已经整理的笔记](TEXTBOOK)
-
-### [任务](MISSION)
 
 ----
 # License
