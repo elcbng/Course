@@ -32,7 +32,9 @@ We "**Mark-down**" our notes here.
 
 ### [笔记目录](INDEX.md)
 
-### [TEXTBOOK](TEXTBOOK)
+### [已经整理的笔记](TEXTBOOK)
+
+### [任务](MISSION)
 
 ----
 # License
