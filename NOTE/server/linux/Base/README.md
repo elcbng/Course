@@ -103,7 +103,7 @@ __*除了一部分专家之外，大多数人都是直接使用 Linux 发行版�
 
 <br>
 
-因为 [Linux 发行版分支图](img/Linux_distribution.png)面积太大，所以不在这里贴出，但给出链接供参考。  
+因为 [Linux 发行版分支图](https://distrowatch.com/images/other/distro-family-tree.png)面积太大，所以不在这里贴出，但给出链接供参考。  
 
 
 --------------
