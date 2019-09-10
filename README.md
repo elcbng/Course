@@ -10,12 +10,13 @@ We "**Mark-down**" our notes here.
 
 1. ### [前言：缺德经](philosophy/README.md)
 
-1. ### [笔记目录](INDEX.md)
+1. ### [笔记目录](NOTE)
 
 1. ### [已经整理的笔记](TEXTBOOK)
 
 1. ### [习题](MISSION)
 
+1. ### [咕咕咕声明](https://github.com/MuZhou233/gugu-tutorial)
 ---
 
 >### [Document Style](https://github.com/ruanyf/document-style-guide)
