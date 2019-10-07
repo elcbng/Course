@@ -8,7 +8,7 @@ We "**Mark-down**" our notes here.
 
 # Content
 
-1. ### [前言：缺德经](philosophy/README.md)
+1. ### [前言](philosophy/README.md)
 
 1. ### [笔记目录](NOTE)
 
