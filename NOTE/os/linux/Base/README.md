@@ -103,7 +103,7 @@ __*除了一部分专家之外，大多数人都是直接使用 Linux 发行版�
 
 <br>
 
-因为 [Linux 发行版分支图](https://distrowatch.com/images/other/distro-family-tree.png)面积太大，所以不在这里贴出，但给出链接供参考。  
+因为 [Linux 发行版分支图](https://cooing.tech/)面积太大，所以不在这里贴出，但给出链接供参考。  
 
 
 --------------
@@ -111,7 +111,7 @@ __*除了一部分专家之外，大多数人都是直接使用 Linux 发行版�
 
 * 本人只会按照自己认为用得到的方面进行讲解
 
-* 在讲解过程中将会使用 [**Ubuntu**](https://en.wikipedia.org/wiki/Ubuntu)([**乌班图**](https://zh.wikipedia.org/wiki/Ubuntu))，[**CentOS**](https://en.wikipedia.org/wiki/CentOS)[(中文)](https://zh.wikipedia.org/wiki/CentOS)，[**Archlinux**](https://wiki.archlinux.org/index.php/) 三个 **Linux 发行版**作为例子。
+* 在讲解过程中将会使用 [**Ubuntu**](https://en.wikipedia.org/wiki/Ubuntu)([**乌班图**](https://zh.wikipedia.org/wiki/Ubuntu))，[**Fedora**](https://en.wikipedia.org/wiki/Fedora_(operating_system))([中文](https://zh.wikipedia.org/wiki/Fedora))，[**Archlinux**](https://wiki.archlinux.org/index.php/) 三个 **Linux 发行版**作为例子。
 
 * 本篇默认你使用 [GRUB](https://en.wikipedia.org/wiki/GNU_GRUB)[引导加载器](https://zh.wikipedia.org/wiki/GNU_GRUB) 来引导并加载 Linux 发行版。
   - 注：关于使用 [rEFInd](https://wiki.archlinux.org/index.php/REFInd) [(中文)](https://wiki.archlinux.org/index.php/REFInd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) 或者 [Clover](https://wiki.archlinux.org/index.php/Clover) [(中文)](https://wiki.archlinux.org/index.php/Clover_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))，[Systemd Boot](https://wiki.archlinux.org/index.php/Systemd-boot)  [(中文)](https://wiki.archlinux.org/index.php/Systemd-boot_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) 的教程也可能会涉及。

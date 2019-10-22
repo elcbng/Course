@@ -16,9 +16,9 @@
 >        * RSS
 >    * json
 
-1. #### [Server](server)
-- [**Linux**](server/linux)
-- [**Windows**](server/windows)
+1. #### [Operating System](os)
+- [**Linux**](os/linux)
+- [**Windows**](os/windows)
 
 1. #### [Network](network)
 

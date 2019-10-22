@@ -9,5 +9,5 @@
   - [~~ChromiumOS 的安装~~](cros)
 - [~~Openwrt 的安装~~](Openwrt)
 - [~~Red Hat 的安装~~](RedHat)
-  - [CentOS 的安装](RedHat\CentOS)
-  - [~~Fedora 的安装~~](RedHat\Fedora)
+  - [~~CentOS 的安装~~](RedHat\CentOS)
+  - [Fedora 的安装](RedHat\Fedora)
