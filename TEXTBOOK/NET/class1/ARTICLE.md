@@ -66,19 +66,6 @@ Linux 的作者是 Linus Torvalds
 
 ***
 
-## macOS 是什么
-
-![1991-2009](https://vignette.wikia.nocookie.net/logopedia/images/b/b9/MacOS_original_logo.svg/revision/latest/scale-to-width-down/55?cb=20180926062635)
-![2012](https://vignette.wikia.nocookie.net/logopedia/images/0/08/The_OS_X_Logo.svg/revision/latest/scale-to-width-down/80?cb=20180926062134)
-![macOS](https://vignette.wikia.nocookie.net/logopedia/images/2/21/MacOS_wordmark_%282017%29.svg/revision/latest/scale-to-width-down/80?cb=20180926061551)
-
-**macOS**（/ˌmækʔoʊˈɛs/；2011年及之前称 **Mac OS X**，2012年至2015年称 **OS X**）是苹果公司推出的基于图形用户界面操作系统，为**麦金塔 (Macintosh)** 的主操作系统。
-
-macOS 架构图
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Diagram_of_Mac_OS_X_architecture.svg/556px-Diagram_of_Mac_OS_X_architecture.svg.png)
-
-***
-
 # 再回头看一下操作系统的结构
 **操作系统基本框架**
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Operating_system_architecture.svg/400px-Operating_system_architecture.svg.png)
@@ -86,10 +73,6 @@ macOS 架构图
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Windows_2000_architecture.svg/468px-Windows_2000_architecture.svg.png)
 **Linux**
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_kernel_ubiquity.svg/800px-Linux_kernel_ubiquity.svg.png)
-**macOS**
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Diagram_of_Mac_OS_X_architecture.svg/556px-Diagram_of_Mac_OS_X_architecture.svg.png)
-**Harmony OS 鸿蒙**
-![img](https://pic2.zhimg.com/80/v2-49e19902943af0ad916da1bef01ec9fb_hd.jpg)
 
 ***
 
@@ -115,74 +98,52 @@ macOS 架构图
 
 ***
 
-## 内核的分类
-内核在设计上可以概分为宏内核与微内核两大架构。
+# Linux 内核 与 Linux 发行版
 
-* 宏内核   
-如 ```Unix```、```BSD```、```DOS```、```Unix-Like```、```Linux```等
+## Linux 内核 的诞生
 
-* 微内核  
-如 ```Minix```、```QNX```、```Hurd```等
+### UNIX 的诞生
 
-* 混合内核  
-如 ```Windows NT```、```Mach```、```XNU```等
+> 这一切都要从 UNIX 说起。
 
-***
+**UNIX** 是一个强大的多用户、多任务操作系统，支持多种处理器架构，按照操作系统的分类，属于分时操作系统。
+最早由 Ken Thompson、Dennis Ritchie 和 Douglas McIlroy 于1969年在AT&T的贝尔实验室开发。
 
-### 宏内核
-**宏内核**定义出一个高端的虚拟接口，由该接口来涵盖描述整个电脑硬件，这些描述会集合成一组硬件描述用词，有时还会附加一些系统调用 (System Call)，如此可以用一个或多个模块来实现各种操作系统服务，如进程管理、并发（Concurrency）控制、存储器管理等。
-
-**宏内核**被视作为运行在单一地址空间的单一的进程，内核提供的所有服务，都以特权模式，在这个大型的内核地址空间中运作，这个地址空间被称为**内核态（kernel space）**。  
-它通常是以单一静态二进制文件的方式被存储在磁盘，或是缓冲存储器上，在引导之后被加载存储器中的内核态，开始运作。  
-
-**用人话来说就是：宏内核接管了所有的计算机资源。**  
-即：中央集权。
-
-**优点：**
-> 设计简单，因为**高度紧密性**所以性能优良。  
-> 性能优良：内核之中的通信成本很小，内核可以直接调用内核态内的函数，跟用户态的应用程序调用函数一样，因此它的性能很好。
-
-**缺点：**
-> 移植性不佳，因为**高度紧密性**所以可靠性不如微内核。
-> 可靠性：所有的模块也都在同一块定址空间内运行，倘若某个模块有错误、瑕疵（Bug），运行时就会损及整个操作系统运作。
+UNIX 曾经开源且允许扩展和修改，并诞生了 **BSD** 等优秀的操作系统。
 
 ***
 
-### 微内核
-**微内核**由一群尽可能将数量最小化的软件程序组成，它们负责提供、实现一个操作系统所需要的各种机制与功能。这些最基础的机制，包括了底层地址空间管理，线程管理，与行程间通信（IPC）。
+#### 渣男 AT&T
 
-**用人话来说就是：这是一堆内核。**
+但是随着 AT&T “渐渐露出资本主义的黑暗而又邪恶的欲望”，它对之前的 UNIX 及其变种声明了著作权，并且不再授权 UNIX 的源代码予他人。
 
-**微核心**的设计理念，是将系统服务的实现，与系统的基本操作规则区分开来。它实现的方式，是将核心功能模块化，划分成几个独立的行程，各自运行，这些行程被称为服务（service）。所有的服务行程，都运行在不同的地址空间。只有需要绝对特权的行程，才能在具特权的运行模式下运行，其余的行程则在用户空间运行。
+AT&T 固执地捍卫 Unix 版权，完全不顾它的创造者和开发者的愿望，导致 Unix 丧失活力、一蹶不振，大量开发者无法参与，只好离开了这个平台。
 
-**优点：**
-> 易于实现与调试，增进可移植性，系统稳定度增加，功能更有弹性。
-> 微内核避免了单一组件失效导致整个系统崩溃，内核只需要重启这个组件即可。微内核甚至可以抽换或新增某些服务行程，使功能更有弹性。
+这引起了很多人的不满，其中包括荷兰阿姆斯特丹自由大学计算机科学系的塔能鲍姆教授（Prof. Andrew S. Tanenbaum）。这个人为了能在课堂上教授学生操作系统运作的实务细节，决定在不使用任何 AT&T 的源代码前提下，自行开发与 UNIX 兼容的操作系统，以避免著作权上的争议。他以小型 UNIX（mini-UNIX）之意，将它称为 **MINIX**。
 
-**用人话来说就是：零件坏了就换，想要功能就加装：**  
-> M4 MWS模组化武器系统:
-![M4MWS](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/M4w-att.jpg/500px-M4w-att.jpg)
-
-**缺点：**
-> 性能不佳，性能不佳，性能不佳。
-> 行程间通信耗费的资源与时间，比简单的函数调用还多；通常又会涉及到核心空间到用户空间的环境切换（context switch）。这使得消息传递有延迟，以及传输量（throughput）受限的问题，因此微核心在通信宽容度不足下，可能出现性能不佳的问题。
-
-**用人话来说就是：根据中学历史知识，中央集权制度最具有效率。**
-即：宏内核性能肯定是最好的啦。
+> **MINIX 与我们有什么关系：**  
+所有2015年之后发布的英特尔芯片都在内部运行着 MINIX 3，作为 Intel 管理引擎 (Intel Management Engine) 的组件。
 
 ***
 
-### 混合内核
-**混合核心**的基本设计理念，是以微核心架构来设计操作系统核心，但在实现上则采用宏内核的作法。混合核心实质上是微核心，只不过它让一些微核结构运行在用户空间的代码运行在核心空间，这样让核心的运行效率更高些。这是一种妥协做法，设计者参考了微核心结构的系统运行速度不佳的理论。
+#### UNIX / BSD 的衰弱，Windows 与 Linux 的诞生
 
-林纳斯·托瓦兹认为，采用可加载核心模块不代表这个操作系统就是一种混合核心，如果模块跟内核使用同样的定址空间，能够访问内核的数据结果，这种实现方式就是宏内核。以这种定义来看，混合核心实际上是宏内核的变种。
+AT&T 起诉 BSD 侵犯了 Unix 的版权。官司结束以后，BSD不幸发生分裂，变成了 FreeBSD、NetBSD 和 OpenBSD 三个版本。这些原因导致 BSD 直到今天，都还在操作系统的竞争中处在落后地位。
 
-**用人话来说就是：根据中学历史知识，皇帝有了宰相。**
+如果换个时间，官司的损失也许还没这么大。偏偏90年代初是计算机工业决定性的年代，错过了那几年，从此你就不要想翻身了。因为从80年代末期开始，Intel的80x86芯片有巨大的发展，性能快速上升，而成本快速下降，个人电脑的年代就要到来了。市场迫切需要能够运行在386芯片上的操作系统，但是Unix和BSD忙于打官司，都没有去做移植操作系统这件事。其他两个这样做的人，改变了人类历史。
 
-**优点：**
-> 宏内核的优点，微内核的优点。
+**一个是比尔·盖茨，他推出了Windows，占领了个人电脑市场，后来赚了几百亿美元。**
 
-**缺点：**
-> 没有宏内核的缺点，没有微内核的缺点。
+**另一个是芬兰大学生Linus Torvalds，他想学习Unix，但是买不起工作站，就自己写了一个能在386上运行的Linux操作系统，现在全世界超过一半的网络服务器都在使用这个系统。**
 
-***
+
+
+
+
+
+
+
+
+
+
+
