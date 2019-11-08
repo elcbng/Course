@@ -34,26 +34,41 @@
 
 ***
 
-来点例子
+# 来点例子
 
 ***
 
-### Windows 操作系统是什么
+## Windows 操作系统是什么
 ![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Windows_darkblue_2012.svg/800px-Windows_darkblue_2012.svg.png)
 **Microsoft Windows**（中译：**视窗操作系统**）是微软公司推出的一系列操作系统。  
 ~~谁还管这个中译啊~~
 
-> **这张图** 是 Windows NT 操作系统家族的体系结构
+**这张图** 是 Windows NT 操作系统家族的体系结构
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Windows_2000_architecture.svg/468px-Windows_2000_architecture.svg.png)
 
 ***
 
-### Linux 操作系统是什么
+## Linux 操作系统是什么
 
 > Linux 的吉祥物 Tux
 ![Tux](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/500px-NewTux.svg.png)
 
 **Linux** 是一种自由和开放源码的 **类 UNIX** 操作系统。
 
-> **这张图** 是 Linux 的系统架构
+Linux 的作者是 Linus Torvalds
+> Linus 的微笑
+![Linus](https://upload.wikimedia.org/wikipedia/commons/5/5c/Linus_Torvalds_%28cropped%29.jpg)
+
+**这张图** 是 Linux 的系统架构
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_kernel_ubiquity.svg/800px-Linux_kernel_ubiquity.svg.png)
+
+## macOS 是什么
+
+![1991-2009](https://vignette.wikia.nocookie.net/logopedia/images/b/b9/MacOS_original_logo.svg/revision/latest/scale-to-width-down/55?cb=20180926062635)
+![2012](https://vignette.wikia.nocookie.net/logopedia/images/0/08/The_OS_X_Logo.svg/revision/latest/scale-to-width-down/80?cb=20180926062134)
+![macOS](https://vignette.wikia.nocookie.net/logopedia/images/2/21/MacOS_wordmark_%282017%29.svg/revision/latest/scale-to-width-down/80?cb=20180926061551)
+
+**macOS**（/ˌmækʔoʊˈɛs/；2011年及之前称 **Mac OS X**，2012年至2015年称 **OS X**）是苹果公司推出的基于图形用户界面操作系统，为**麦金塔 (Macintosh)** 的主操作系统。
+
+macOS 架构图
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Diagram_of_Mac_OS_X_architecture.svg/556px-Diagram_of_Mac_OS_X_architecture.svg.png)
