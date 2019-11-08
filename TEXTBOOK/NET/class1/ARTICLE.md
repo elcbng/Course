@@ -222,4 +222,4 @@ Linux 思想体现在人们可以透过一个终端模拟器，直接连到命�
 
 ###### rua
 
-https://zh.wikipedia.org/wiki/%E5%A1%94%E8%83%BD%E9%AE%91%E5%A7%86-%E6%89%98%E7%93%A6%E8%8C%B2%E8%BE%AF%E8%AB%96
+https://blog.csdn.net/chenzhen1080/article/details/82500226
